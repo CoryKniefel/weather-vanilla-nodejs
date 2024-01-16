@@ -1,0 +1,13 @@
+{
+  "name": "weather-vanillar-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weatherApi.js",
+  "scripts": {
+    "dev": "node --env-file=.env.development app.js",
+    "prod": "node --env-file=.env.production app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
